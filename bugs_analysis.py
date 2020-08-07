@@ -7,16 +7,6 @@ A script to analyze data from 'bugs.csv'
 
 """
 
-# final check
-# *final push of all files to github
-# *add luketudge as a collaborator
-# *email the link to luke
-#git status
-#*add files
-#git status
-#git remote -v
-#git push
-
 # %% Packages
 import os
 from matplotlib import pyplot
