@@ -1,0 +1,8 @@
+The following sources werre referenced while completing this assignment:
+
+https://www.pluralsight.com/guides/interpreting-data-using-statistic-models-python
+https://ericmjl.github.io/blog/2015/5/30/how-to-do-testing-as-a-practice-in-data-analysis/
+https://github.com/ericmjl/data-testing-tutorial/blob/master/3-data-checks.ipynb
+https://github.com/psf/black
+https://pep8.readthedocs.io/en/latest/advanced.html
+https://changhsinlee.com/pytest-intro/
