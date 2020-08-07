@@ -164,13 +164,6 @@ predictions = [
 print_section(predictions, "Model Predictions for Kill Rating per Bug Type")
 
 
-# Plot
-sns.lmplot(x="BugType", y="KillRating", data=df)
-pyplot.xlabel("BugType")
-pyplot.ylabel("KillRating")
-pyplot.show()
-
-
 
 # %% Plot
 # To visualize the desire to kill as a function of fear and disgust
